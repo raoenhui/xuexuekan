@@ -1,2 +1,2 @@
 # xuexuekan
-simple H5 page
+simple H5 page + rem + animate
